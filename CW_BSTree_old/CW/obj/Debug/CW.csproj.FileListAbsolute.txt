@@ -1,0 +1,11 @@
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.csproj.AssemblyReference.cache
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.Properties.Resources.resources
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.csproj.GenerateResource.cache
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SAOD\CW\CW\bin\Debug\CW.exe.config
+C:\Users\User\source\SAOD\CW\CW\bin\Debug\CW.exe
+C:\Users\User\source\SAOD\CW\CW\bin\Debug\CW.pdb
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.exe
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.pdb
+C:\Users\User\source\SAOD\CW\CW\obj\Debug\CW.Form1.resources

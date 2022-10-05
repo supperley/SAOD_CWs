@@ -1,0 +1,21 @@
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\bin\Debug\Курсач саод.exe.config
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\bin\Debug\Курсач саод.exe
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\bin\Debug\Курсач саод.pdb
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач_саод.Form1.resources
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач_саод.Properties.Resources.resources
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.GenerateResource.cache
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач саод.exe
+C:\Users\37533\Desktop\Курсач саод\Курсач саод\obj\Debug\Курсач саод.pdb
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\bin\Debug\Курсач саод.exe.config
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\bin\Debug\Курсач саод.exe
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\bin\Debug\Курсач саод.pdb
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач_саод.Form1.resources
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач_саод.Properties.Resources.resources
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач саод.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач саод.exe
+C:\Users\User\Downloads\Telegram Desktop\Курсач саод\Курсач саод\Курсач саод\obj\Debug\Курсач саод.pdb

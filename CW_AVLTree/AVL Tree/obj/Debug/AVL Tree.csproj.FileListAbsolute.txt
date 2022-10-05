@@ -1,0 +1,22 @@
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+C:\Users\User\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.AssemblyReference.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.SuggestedBindingRedirects.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb

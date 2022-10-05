@@ -1,0 +1,33 @@
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\bin\Debug\CW_Deque.exe.config
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\bin\Debug\CW_Deque.exe
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\bin\Debug\CW_Deque.pdb
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.AssemblyReference.cache
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.Form1.resources
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.Properties.Resources.resources
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.GenerateResource.cache
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.exe
+C:\Users\User\source\SAOD\CW_Deque\CW_Deque\obj\Debug\CW_Deque.pdb
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\bin\Debug\CW_Deque.exe.config
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\bin\Debug\CW_Deque.exe
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\bin\Debug\CW_Deque.pdb
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.csproj.AssemblyReference.cache
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.Form1.resources
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.Properties.Resources.resources
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.csproj.GenerateResource.cache
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.exe
+C:\Users\User\source\SAOD\CW_Deque — копия\CW_Deque\obj\Debug\CW_Deque.pdb
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\bin\Debug\CW_Deque.exe.config
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\bin\Debug\CW_Deque.exe
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\bin\Debug\CW_Deque.pdb
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.AssemblyReference.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.SuggestedBindingRedirects.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.Form1.resources
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.Properties.Resources.resources
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.GenerateResource.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.csproj.CoreCompileInputs.cache
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.exe
+E:\study\2kurs\1sem\saod\Projects\CWs_Git\CW_Deque\CW_Deque\obj\Debug\CW_Deque.pdb

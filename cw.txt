@@ -1,0 +1,93 @@
+// Приложение для иллюстрации поиска с помощью бинарного дерева
+#include <iostream>
+
+using namespace std;
+
+struct Node {
+    int key;      // ключ узла
+    int V;        // информационная часть узла
+    Node* left;   // указатель на левого потомка
+    Node* right;  // указатель на правого потомка
+    Node* parent; // указатель на родительский узел
+};
+
+Node* Find(Node* x, int k)
+{
+    if (x == NULL)
+        cout << "нет дерева";
+    else
+        if (k == x->key)
+            return x;
+    if (k > x->key)
+        return Find(x->right, k);
+    else
+        return Find(x->left, k);
+}
+
+Node* insertNode(Node* root, int k) {
+    Node* current, *parent;
+    current = root;  
+    parent = NULL;
+    while (current) {
+        if (k == current->key) {
+            current->V = k;
+            return current;
+        }
+        parent = current;
+        current = k < current->key ? current->left : current->right;
+    }
+    Node *x = new Node;
+    x->key = k;
+    x->parent = parent;
+    x->left = NULL;
+    x->right = NULL;
+    if (parent)
+        if (x->key < parent->key)  parent->left = x;
+        else  parent->right = x;
+    else
+        root = x;
+    return x;
+}
+
+//void treeprint(tnode* tree) {
+//    if (tree != NULL) {         // Пока не встретится пустой узел
+//        treeprint(tree->left);  // Рекурсивная функция для левого поддерева
+//        cout << tree->field;    // Отображаем корень дерева
+//        treeprint(tree->right); // Рекурсивная функция для правого поддерева
+//    }
+//}
+//
+////Удаление поддерева
+//void freemem(tnode* tree) {
+//    if (tree != NULL) {
+//        freemem(tree->left);
+//        freemem(tree->right);
+//        delete tree;
+//    }
+//}
+
+int main()
+{
+    Node* root = NULL;
+    char choice;
+    int x;
+    while (true) {
+        cout << "Choose: ";
+        cin >> choice;
+        switch (choice)
+        {
+        case '1':
+            cout << "Input element: ";
+            cin >> x;
+            insertNode(root, x);
+            break;
+        case '2':
+            cout << "Find element: ";
+            cin >> x;
+            Find(root, x);
+            break;
+        default:
+            break;
+        }
+    }
+}

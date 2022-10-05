@@ -1,0 +1,13 @@
+C:\Users\User\source\SAOD\CW_2\CW_2\bin\Debug\CW_2.exe.config
+C:\Users\User\source\SAOD\CW_2\CW_2\bin\Debug\CW_2.exe
+C:\Users\User\source\SAOD\CW_2\CW_2\bin\Debug\CW_2.pdb
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.csproj.AssemblyReference.cache
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.Form1.resources
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.Properties.Resources.resources
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.csproj.GenerateResource.cache
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.exe
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.pdb
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.Form2.resources
+C:\Users\User\source\SAOD\CW_2\CW_2\obj\Debug\CW_2.Form3.resources
